@@ -14,4 +14,4 @@ def double_value(input):
         print('The input is not a list')
 
 print(double_value([1, 2, 3, 4, 5, 6]))
-(double_value('a, b'))
+double_value('a, b')
